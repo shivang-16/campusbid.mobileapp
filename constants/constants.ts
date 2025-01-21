@@ -21,4 +21,8 @@ export const tabBarItems = [
     name: "dashboard",
     title: "Dashboard",
   },
+  {
+    name: "community",
+    title: "Community",
+  },
 ];
